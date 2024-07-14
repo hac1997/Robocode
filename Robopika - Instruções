@@ -1,0 +1,33 @@
+Trabalho do Diego.
+
+Aqui estou supondo que você tenha o GIT instalado no teu PC. É Necessário baixar ele caso você tenha o Windows instalado no teu PC. 
+
+Para baixar, é bem tranquilo. Vá nesse endereço:
+https://git-scm.com/downloads
+E baixe o programa. 
+
+Faz um tempinho desde que eu baixei o git no meu PC. Não sei bem ao certo das instruções. Use esse video no Youtube como refêrencia:
+https://www.youtube.com/watch?v=UBAX-13g8OM
+
+Com o Git instalado, crie uma Pasta no teu computador com o nome Robopika. 
+
+Com o botão direito do mouse clique em cima da pasta e seleciona a opção "Open Git Bash here". 
+Vai abrir um prompt de comando parecido com o terminal do Linux que vemos na aula. Na Verdade é a mesmíssima coisa. Vamos dar os seguintes comandos:
+
+git init
+git config --global user.email "me@example.com"
+git config --global user.name "My name"
+git clone https://github.com/hac1997/Robocode.git
+
+Com esses comandos acima vocês já devem ter uma cópia do Robocode no computador de vocês. Essa é uma pasta que tenho no meu Github.
+
+Para abrir o Robocode, é o mesmo esquema na aula. Basta escrever o seguinte no terminal:
+~/robocode/robocode.sh
+
+É isso. Para criar um novo robô, no Robocode aberto vá em > Robot > Source Editor > File > New > Robot
+
+Caso vocês queiram abrir o Robo do coleguinha, no Source Editor, vá em > File > Open > Robopika > nomedoRobo. 
+
+Vocês podem Pegar um Robo Pronto nosso ou do sistema, alterar o código e na hora de salvar, salvar com outro nome, por exemplo, Robopika0x, indo em File > Save as.
+
+É isso.
