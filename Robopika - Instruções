@@ -30,4 +30,4 @@ Caso vocês queiram abrir o Robo do coleguinha, no Source Editor, vá em > File 
 
 Vocês podem Pegar um Robo Pronto nosso ou do sistema, alterar o código e na hora de salvar, salvar com outro nome, por exemplo, Robopika0x, indo em File > Save as.
 
-É isso.
+Pode acontecer de, por algum motivo, na hora de compilar o Robo haja um problema. Vai em Compiler > options > reset compiler. Se der certo, deu. Se não der, não deu.
