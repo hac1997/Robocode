@@ -27,7 +27,7 @@ public class CR01 extends AdvancedRobot {
     }
 
     public void onScannedRobot(ScannedRobotEvent e) {
-        // ajusta o canhão para mirar no inimigo
+
         turnGunRight(getHeading() - getGunHeading() + e.getBearing());
         
         // calcula a potência do tiro baseado na distância
